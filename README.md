@@ -11,11 +11,11 @@ bff&amp;bffvue
 
   生成dist文件  
 
-第二步:copy前端页面静态资源到bffserver下  
+第二步:copy前端页面静态资源dist到bffserver下  
 # bffserver
-  1.第一、创建views文件夹,讲dist里index.html拷贝进来;  
+  1.第一、创建views文件夹,将dist里index.html拷贝进来;  
 
-    第二、创建assets文件夹,讲dist里js、css、img文件夹拷贝进来;  
+    第二、创建assets文件夹,将dist里js、css、img文件夹拷贝进来;  
 
     第三、将favicon.ico文件拷贝到img里;  
 
