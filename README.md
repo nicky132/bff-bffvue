@@ -1,5 +1,6 @@
 # bff-bffvue
-bff&amp;bffvue
+bff&amp;bffvue  
+
 第一步:跑起来bffvue项目
 # bffvue
   1.cnpm install   
@@ -27,5 +28,5 @@ bff&amp;bffvue
   4.第一、访问localhost:3000,看到页面首页;  
 
     第二、访问localhost:3000/api/test,看到test接口返回数据;  
-    
+
     第三、访问localhost:3000/home,看到页面首页,点击about看到about页面,点击test看到test页面
